@@ -32,8 +32,6 @@ Low level locking you out of cool parts?
 
 ## 📸 Screenshots
 
-*(Place your application screenshot here. Example: `docs/screenshot.png`)*
-
 | Main Menu | Connected Status |
 | :---: | :---: |
 <img width="607" height="510" alt="image" src="https://github.com/user-attachments/assets/27d9e3e2-cd83-4dd6-b04e-d248683ae143" />
