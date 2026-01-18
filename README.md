@@ -2,73 +2,75 @@
 
 ![ETS2 Banner](https://img.shields.io/badge/Game-Euro%20Truck%20Simulator%202-orange?style=for-the-badge) ![Language](https://img.shields.io/badge/Made%20With-C%23-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-UNDETECTED-brightgreen?style=for-the-badge)
 
-> **Jadilah Sultan Jalanan dalam Sekejap!** > Simple, Ringan, dan Efektif. Tidak perlu install Cheat Engine manual.
+> **Rule the Roads Instantly!**
+> Simple, Lightweight, and Effective. No need for manual Cheat Engine tables.
 
 ---
 
-## 📋 Tentang Project
-Aplikasi Trainer eksternal untuk **Euro Truck Simulator 2 (ETS2)** yang dibuat menggunakan C# dan manipulasi memori (.NET Framework). Tools ini mempermudah player yang ingin fokus modifikasi truk atau eksplorasi map tanpa pusing memikirkan uang atau level yang rendah.
+## 📋 About The Project
+An external trainer application for **Euro Truck Simulator 2 (ETS2)** built using C# and memory manipulation (.NET Framework). This tool is designed for players who want to focus on truck modifications or map exploration without the grind for money or levels.
 
-Dibuat seringan mungkin, portable (langsung jalan), dan memiliki fitur **Auto-Attach** ke game.
+It is lightweight, portable (plug & play), and features an **Auto-Attach** mechanism.
 
 ---
 
-## 🔥 Fitur Utama
+## 🔥 Key Features
 
-### 💸 1. Money Injector (Suntik Dana)
-Dompet tipis buat beli Scania V8? Gak masalah.
-* Menambahkan uang tunai (**Euros**) secara instan ke akun save game kamu.
-* **Opsi Nominal:** +€500k, +€1 Juta, +€2 Juta.
-* *Uang langsung masuk tanpa perlu ambil pinjaman bank!*
+### 💸 1. Money Injector
+Running low on cash for that Scania V8? No problem.
+* Instantly adds cash (**Euros**) to your save game.
+* **Options:** +€500k, +€1 Million, +€2 Million.
+* *Get rich instantly without taking bank loans!*
 
 ### 🆙 2. Experience (XP) Booster
-Level rendah bikin gak bisa beli parts keren?
-* Menambahkan **XP** secara instan.
-* **Benefit:** Karena ETS2 memberikan 1 Skill Point setiap naik level, fitur ini secara tidak langsung memberikanmu **Unlimited Skill Points** setiap kali kamu Level Up.
-* Buka semua akses truck parts dan trailer dengan cepat.
+Low level locking you out of cool parts?
+* Instantly adds **XP** to your progress.
+* **Benefit:** Since ETS2 grants 1 Skill Point for every Level Up, this feature effectively gives you **Unlimited Skill Points** as your level increases rapidly.
+* Unlock all truck parts and trailers in seconds.
 
 ---
 
 ## 📸 Screenshots
 
-*(Tempatkan screenshot aplikasi kamu di sini. Contoh: `docs/screenshot.png`)*
+*(Place your application screenshot here. Example: `docs/screenshot.png`)*
 
 | Main Menu | Connected Status |
 | :---: | :---: |
-| ![Trainer UI](https://via.placeholder.com/400x250?text=Screenshot+Trainer+Kamu) | ![In Game](https://via.placeholder.com/400x250?text=Bukti+Uang+Masuk) |
+<img width="607" height="510" alt="image" src="https://github.com/user-attachments/assets/27d9e3e2-cd83-4dd6-b04e-d248683ae143" />
+
 
 ---
 
-## 🛠️ Cara Penggunaan
+## 🛠️ How to Use
 
-1. **Jalankan Game:** Buka Euro Truck Simulator 2 dan masuk ke dalam game (Load Profile) sampai kamu bisa menyetir truk.
-2. **Buka Trainer:** Jalankan file `TrainerETS2byNafzz.exe` (Disarankan *Run as Administrator*).
-3. **Cek Status:** Pastikan tulisan status di trainer berwarna hijau (**CONNECTED**).
-4. **Eksekusi:** Klik tombol Money atau XP sesuai keinginan.
-5. **Cek Game:** Lihat uang atau XP kamu bertambah seketika!
+1. **Launch Game:** Open Euro Truck Simulator 2 and load your profile (enter the driving mode).
+2. **Run Trainer:** Open `TrainerETS2byNafzz.exe` (Recommended: *Run as Administrator*).
+3. **Check Status:** Ensure the status text on the trainer says **CONNECTED** (Green).
+4. **Execute:** Click on the Money or XP buttons as desired.
+5. **Profit:** Check your in-game Money or XP—it should update instantly!
 
-> **Catatan:** Jika uang/XP belum berubah di tampilan game, coba buka menu "Map" atau "Career" lalu kembali lagi untuk me-refresh tampilan UI game.
+> **Note:** If the values don't update immediately on your screen, try opening the "Map" or "Career" menu and going back to drive mode to refresh the UI.
 
 ---
 
-## ⚠️ Peringatan Antivirus (False Positive)
+## ⚠️ Antivirus Warning (False Positive)
 
-Karena aplikasi ini bekerja dengan cara **memanipulasi memori RAM (WriteProcessMemory)** dari aplikasi lain (Game), beberapa Antivirus mungkin mendeteksinya sebagai ancaman/virus.
+Since this application works by **manipulating the RAM (WriteProcessMemory)** of another process (the game), some Antivirus software might flag it as a threat or a "HackTool".
 
-* **Ini Aman:** Tidak ada kode berbahaya di dalamnya. Ini adalah perilaku standar semua Trainer Game.
-* **Solusi:** Jika file dihapus otomatis, matikan Antivirus sementara atau masukkan folder trainer ke dalam *Exclusion List*.
+* **It is Safe:** This is standard behavior for Game Trainers. There is no malicious code.
+* **Solution:** If the file gets deleted, please disable your Antivirus temporarily or add the trainer folder to your *Exclusion List*.
 
 ---
 
 ## ⚙️ Requirements
 * OS: Windows 10 / 11
 * Game: Euro Truck Simulator 2 (Tested on Latest Version)
-* .NET Framework 4.7.2 atau lebih baru.
+* .NET Framework 4.7.2 or later.
 
 ---
 
 ## 📝 Disclaimer
-Tools ini dibuat untuk tujuan edukasi (pembelajaran Memory Manipulation C#) dan penggunaan pribadi (Single Player). Penulis tidak bertanggung jawab atas kerusakan save file (selalu backup save file kamu!) atau banned jika digunakan di mode Multiplayer (TruckersMP).
+This tool is for **Educational Purposes** (learning C# Memory Manipulation) and **Single Player** use only. I am not responsible for any corrupted save files (always backup your save!) or bans if used in Multiplayer modes (TruckersMP).
 
 ---
 
