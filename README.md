@@ -1,4 +1,4 @@
-# 🚚 Euro Truck Simulator 2 Trainer (Nafzz Edition)
+# 🚚 Euro Truck Simulator 2 Trainer
 
 ![ETS2 Banner](https://img.shields.io/badge/Game-Euro%20Truck%20Simulator%202-orange?style=for-the-badge) ![Language](https://img.shields.io/badge/Made%20With-C%23-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-UNDETECTED-brightgreen?style=for-the-badge)
 
