@@ -28,13 +28,17 @@ Low level locking you out of cool parts?
 * **Benefit:** Since ETS2 grants 1 Skill Point for every Level Up, this feature effectively gives you **Unlimited Skill Points** as your level increases rapidly.
 * Unlock all truck parts and trailers in seconds.
 
+### ❌ 3. No Damage
+Now you can crash into anything without worrying about the risk of taking damage!
+
 ---
 
 ## 📸 Screenshots
 
 | Main Menu | Connected Status |
 | :---: | :---: |
-<img width="607" height="510" alt="image" src="https://github.com/user-attachments/assets/27d9e3e2-cd83-4dd6-b04e-d248683ae143" />
+<img width="647" height="734" alt="image" src="https://github.com/user-attachments/assets/f4cf0361-385c-4939-9c77-7b14afcc7c1e" />
+
 
 
 ---
