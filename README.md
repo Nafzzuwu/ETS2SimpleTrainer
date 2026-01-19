@@ -46,7 +46,7 @@ Now you can crash into anything without worrying about the risk of taking damage
 ## 🛠️ How to Use
 
 1. **Launch Game:** Open Euro Truck Simulator 2 and load your profile (enter the driving mode).
-2. **Run Trainer:** Open `TrainerETS2byNafzz.exe` (Recommended: *Run as Administrator*).
+2. **Run Trainer:** Open `ETS2_TrainerByNafzz` (Recommended: *Run as Administrator*).
 3. **Check Status:** Ensure the status text on the trainer says **CONNECTED** (Green).
 4. **Execute:** Click on the Money or XP buttons as desired.
 5. **Profit:** Check your in-game Money or XP—it should update instantly!
