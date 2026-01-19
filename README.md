@@ -37,7 +37,7 @@ Now you can crash into anything without worrying about the risk of taking damage
 
 | Main Menu | Connected Status |
 | :---: | :---: |
-<img width="647" height="734" alt="image" src="https://github.com/user-attachments/assets/f4cf0361-385c-4939-9c77-7b14afcc7c1e" />
+<img width="347" height="434" alt="image" src="https://github.com/user-attachments/assets/f4cf0361-385c-4939-9c77-7b14afcc7c1e" />
 
 
 
