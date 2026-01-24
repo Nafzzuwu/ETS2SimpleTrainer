@@ -85,7 +85,7 @@ Since this application works by **manipulating the RAM (WriteProcessMemory)** of
 
 ## ⚙️ Requirements
 * OS: Windows 10 / 11
-* Game: Euro Truck Simulator 2 (Tested on Latest Version)
+* Game: Euro Truck Simulator 2 (1.57.2)
 * .NET Framework 4.7.2 or later.
 
 ---
