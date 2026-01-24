@@ -56,7 +56,8 @@ The **Speed Hack** modifies the wheel physics in real-time. Because the game eng
 
 | Main Menu | Connected Status |
 | :---: | :---: |
-<img width="347" height="434" alt="image" src="https://github.com/user-attachments/assets/f4cf0361-385c-4939-9c77-7b14afcc7c1e" />
+<img width="347" height="437" alt="image" src="https://github.com/user-attachments/assets/f6ea4f8f-f7f7-478b-a817-a864fcb1e200" />
+
 
 ---
 
