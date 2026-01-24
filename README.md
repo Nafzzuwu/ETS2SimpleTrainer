@@ -20,16 +20,35 @@ It is lightweight, portable (plug & play), and features an **Auto-Attach** mecha
 Running low on cash for that Scania V8? No problem.
 * Instantly adds cash (**Euros**) to your save game.
 * **Options:** +€500k, +€1 Million, +€2 Million.
-* *Get rich instantly without taking bank loans!*
 
 ### 🆙 2. Experience (XP) Booster
 Low level locking you out of cool parts?
 * Instantly adds **XP** to your progress.
-* **Benefit:** Since ETS2 grants 1 Skill Point for every Level Up, this feature effectively gives you **Unlimited Skill Points** as your level increases rapidly.
-* Unlock all truck parts and trailers in seconds.
+* **Benefit:** Grants effectively **Unlimited Skill Points** as your level increases rapidly.
 
-### ❌ 3. No Damage
-Now you can crash into anything without worrying about the risk of taking damage!
+### 🛡️ 3. Protection System (No Damage)
+* Crash into anything without taking damage to your Truck, Engine, Wheels, or Cargo.
+* Perfect for reckless high-speed driving.
+
+### ⛽ 4. Infinite Fuel (NEW)
+* Locks your fuel tank to **Full Capacity** (1500L). You never need to visit a gas station again.
+* **Usage Note:** This feature can **ONLY** be activated when you are inside the truck (Drive Mode). It cannot be enabled from the Main Menu/Lobby because the game hasn't loaded the truck physics yet.
+
+### 🚀 5. Speed Hack / Turbo Mode (NEW)
+* Forces your wheels to spin at high velocity instantly.
+* **Controls:**
+    * **Toggle ON/OFF:** Press `[DELETE]`
+    * **Activate Boost:** Hold `[W]` (Gas) while enabled.
+
+---
+
+## 🚨 IMPORTANT: PREVENTING CRASHES (Speed Hack)
+
+The **Speed Hack** modifies the wheel physics in real-time. Because the game engine resets physics when changing states, you must follow these rules to avoid crashing the game:
+
+1.  **Searching Phase:** When you change trucks, modify your truck in the garage, or take a new job, the trainer will display **"SEARCHING POINTER..."**. This is normal; wait until you are in the driver's seat for it to say **"SYSTEM READY"**.
+2.  **THE GOLDEN RULE:** Before you **Finish a Job** (docking the trailer) or **Abandon a Job**, you **MUST manually turn OFF the Speed Hack** using the `[DELETE]` key.
+    * *If you finish a job while the Speed Hack is forcing wheel spin, the game memory will conflict and **CRASH** to the desktop.*
 
 ---
 
@@ -39,19 +58,18 @@ Now you can crash into anything without worrying about the risk of taking damage
 | :---: | :---: |
 <img width="347" height="434" alt="image" src="https://github.com/user-attachments/assets/f4cf0361-385c-4939-9c77-7b14afcc7c1e" />
 
-
-
 ---
 
 ## 🛠️ How to Use
 
-1. **Launch Game:** Open Euro Truck Simulator 2 and load your profile (enter the driving mode).
-2. **Run Trainer:** Open `ETS2_TrainerByNafzz` (Recommended: *Run as Administrator*).
-3. **Check Status:** Ensure the status text on the trainer says **CONNECTED** (Green).
-4. **Execute:** Click on the Money or XP buttons as desired.
-5. **Profit:** Check your in-game Money or XP—it should update instantly!
-
-> **Note:** If the values don't update immediately on your screen, try opening the "Map" or "Career" menu and going back to drive mode to refresh the UI.
+1. **Launch Game:** Open Euro Truck Simulator 2 and load your profile.
+2. **Enter Drive Mode:** Go into the truck (Driving view). **This is required for Fuel and Speed hacks to detect addresses.**
+3. **Run Trainer:** Open `ETS2_TrainerByNafzz` (Recommended: *Run as Administrator*).
+4. **Execute:**
+    * Click Money/XP buttons for instant rewards.
+    * Check "No Damage" or "Infinite Fuel" to freeze those values.
+    * Press `[DELETE]` to toggle Speed Hack (Read the warning above!).
+5. **Profit:** Enjoy the game!
 
 ---
 
@@ -77,5 +95,5 @@ This tool is for **Educational Purposes** (learning C# Memory Manipulation) and 
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Nafzz</b>
+  Made with ❤️ by <b>Nafzz</b>
 </p>
